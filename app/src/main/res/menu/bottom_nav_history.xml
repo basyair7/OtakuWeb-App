@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anoboy_nav_history"
+        android:icon="@drawable/ic_baseline_history_web1"
+        android:title="@string/anoboy_nav_history"/>
+
+    <item
+        android:id="@+id/samehadaku_nav_history"
+        android:icon="@drawable/ic_baseline_history_web2"
+        android:title="@string/samehadaku_nav_history"/>
+
+    <item
+        android:id="@+id/gomunime_nav_history"
+        android:icon="@drawable/ic_baseline_history_web3"
+        android:title="@string/gomunime_nav_history"/>
+
+    <item
+        android:id="@+id/bookmarks_move"
+        android:icon="@drawable/ic_baseline_bookmark_web1"
+        android:title="@string/bookmarks_nav"/>
+
+
+    <item
+        android:id="@+id/delete_nav_history"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:title="@string/delete_nav"/>
+
+</menu>

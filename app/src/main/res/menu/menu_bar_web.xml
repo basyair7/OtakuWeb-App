@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/forward_item1"
+        android:title="@string/forward_nav"/>
+
+    <item
+        android:id="@+id/refresh_item2"
+        android:title="@string/refresh_btn"/>
+
+    <item
+        android:id="@+id/desktopmode_item3"
+        android:title="@string/desktop_mode"/>
+
+    <item
+        android:id="@+id/history_item4"
+        android:title="@string/history_nav"/>
+
+    <item
+        android:id="@+id/add_bookmarks"
+        android:title="@string/add_url_in_bookmark"/>
+
+    <item
+        android:id="@+id/bookmarks_item5"
+        android:title="@string/bookmarks_nav"/>
+
+    <!--
+    <item
+        android:id="@+id/aboutApp_item5"
+        android:title="@string/about_nav"-->
+
+    <!--item
+        android:id="@+id/add_bookmarks"
+        android:title="@string/add_url_in_bookmark"
+        android:icon="@drawable/ic_baseline_stars_24"
+        app:showAsAction="ifRoom"/-->
+
+
+</menu>

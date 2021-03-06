@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Otaku Web</string>
+
+    <!-- Button MainMenu -->
+    <string name="anoboy_web">Anoboy</string>
+    <string name="samehadaku_web">Samehadaku</string>
+    <string name="gomunime_web">Gomunime</string>
+
+    <!-- Bottom Navigation Web -->
+    <string name="anoboy_nav">Anoboy</string>
+    <string name="samehadaku_nav">Samehadaku</string>
+    <string name="gomunime_nav">Gomunime</string>
+    <string name="home_nav">Home</string>
+    <string name="setting_nav">Options</string>
+
+    <!-- Bottom Navigation History -->
+    <string name="history_nav">History</string>
+    <string name="delete_nav">Delete</string>
+    <string name="samehadaku_nav_history">Samehadaku</string>
+    <string name="anoboy_nav_history">Anoboy</string>
+    <string name="gomunime_nav_history">Gomunime</string>
+    <string name="exit_nav_history">Exit</string>
+
+    <!-- Bottom Navigation Bookmarks -->
+    <string name="bookmarks_nav">Bookmarks</string>
+    <string name="samehadaku_nav_bookmarks">Samehadaku</string>
+    <string name="anoboy_nav_bookmarks">Anoboy</string>
+    <string name="gomunime_nav_bookmarks">Gomunime</string>
+    <string name="exit_nav_bookmarks">Exit</string>
+    <string name="delete_book">Delete</string>
+    <string name="stars_bookmarks">Stars</string>
+
+
+    <!-- Application Info -->
+    <string name="main_info1">OtakuWeb</string>
+    <string name="main_info2">Silahkan pilih web yang kamu inginkan</string>
+    <string name="main_info3">Maaf, koneksi internet kamu tidak ada :(</string>
+    <string name="main_info4">Silahkan cek koneksi internet kamu dan coba refresh lagi...</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="version_app">version 1.6.0</string>
+    <string name="add_url_in_bookmark">Simpan Halaman</string>
+    <string name="settings_bar">Options</string>
+    <string name="about_me">About Me</string>
+    <string name="forward_nav">Forward</string>
+    <string name="continue_video">Lanjutkan</string>
+    <string name="about_nav">About</string>
+    <string name="splash_text">Please Wait...</string>
+    <string name="desktop_mode">Desktop Mode</string>
+
+</resources>
